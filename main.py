@@ -1,6 +1,6 @@
 
 print("Hello World")
-print("This is an update")
+print("Created an update")
 
 
 # add extra line
